@@ -1,4 +1,4 @@
-import React from 'react';
+
 import "./index.scss"
 interface IUser {
     user: {
