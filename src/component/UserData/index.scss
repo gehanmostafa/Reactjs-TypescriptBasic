@@ -1,0 +1,18 @@
+// h2:not(.lastchild){
+   
+//     border-bottom: 2px solid var(--main-color);
+// }
+h2{
+    color: white;
+    letter-spacing: 3px;
+    text-transform: capitalize;
+    font-weight: 200;
+    margin-bottom: 30px;
+
+    font-family: cursive;
+}
+.container{
+    width: 80%;
+    margin:  20px auto;
+
+}
